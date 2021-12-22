@@ -1,0 +1,6 @@
+/target
+/bootloader/target
+/mnt
+/bootloader/mnt
+disk.img
+/bootloader/disk.img
